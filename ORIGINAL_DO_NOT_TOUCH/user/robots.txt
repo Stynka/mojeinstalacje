@@ -1,5 +1,0 @@
-
-User-agent: *
-
-
-sitemap: https://mojeinstalacje.pl/sitemap.xml
